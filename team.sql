@@ -1,0 +1,6 @@
+UPDATE yupi.team SET name = '超级战队已经更新', description = '超级战队认真作战已经更新', maxNum = 5, expireTime = '2024-04-13 12:00:06', userId = 4, status = 0, password = '', createTime = null, updateTime = null, isDelete = 0 WHERE id = 1;
+UPDATE yupi.team SET name = '超级战队', description = '超级战队，认真作战', maxNum = 10, expireTime = '2024-10-20 12:18:30', userId = 3, status = 2, password = '123456', createTime = null, updateTime = null, isDelete = 0 WHERE id = 2;
+UPDATE yupi.team SET name = '超级战队', description = '认真作战', maxNum = 5, expireTime = '2024-11-03 16:00:00', userId = 4, status = 2, password = '123456', createTime = null, updateTime = null, isDelete = 0 WHERE id = 3;
+UPDATE yupi.team SET name = '超级战队1', description = '认真作战', maxNum = 5, expireTime = '2027-01-01 12:20:00', userId = 3, status = 2, password = '123456', createTime = null, updateTime = null, isDelete = 0 WHERE id = 4;
+UPDATE yupi.team SET name = '战队无敌', description = '配合完美', maxNum = 5, expireTime = '2024-05-08 01:40:00', userId = 3, status = 2, password = '123456', createTime = null, updateTime = null, isDelete = 0 WHERE id = 5;
+UPDATE yupi.team SET name = '战队无敌', description = '配合完美', maxNum = 5, expireTime = '2024-05-08 01:40:00', userId = 4, status = 2, password = '123456', createTime = null, updateTime = null, isDelete = 0 WHERE id = 6;
